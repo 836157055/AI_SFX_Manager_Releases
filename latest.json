@@ -1,10 +1,10 @@
 {
-  "version": "0.1.17",
-  "releaseUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.1.17",
-  "downloadUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.1.17/SFX.Reactor_0.1.17_x64-setup.exe",
-  "notes": "SFX Reactor 0.1.17 public update package.",
-  "sha256": "e1b00cfa1ad0525b8c77a6bb35f648ab236db991702053070e92cff1a80e95f4",
+  "version": "0.1.18",
+  "releaseUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.1.18",
+  "downloadUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.1.18/SFX.Reactor_0.1.18_x64-setup.exe",
+  "notes": "SFX Reactor 0.1.18 public update package.",
+  "sha256": "f40c15df36d684b9ee0700055c67dd334622f790ff733105bb3d066f91613334",
   "platform": "windows-x64",
-  "fileName": "SFX.Reactor_0.1.17_x64-setup.exe",
-  "publishedAt": "2026-06-08T04:09:11Z"
+  "fileName": "SFX.Reactor_0.1.18_x64-setup.exe",
+  "publishedAt": "2026-06-08T11:04:50Z"
 }
