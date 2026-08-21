@@ -6,9 +6,9 @@ This repository contains only update metadata and installer assets. The applicat
 
 ## Latest Update
 
-- Version: 0.5.4
-- Release: https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.5.4
-- Installer: https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.5.4/SFX-Reactor-v0.5.4-setup.exe
-- SHA256: `833b4f691a5e954e1672aceabffaa137ae0c9a94847f40b8741510241a65c2ad`
+- Version: 0.5.5
+- Release: https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.5.5
+- Installer: https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.5.5/SFX-Reactor-v0.5.5-setup.exe
+- SHA256: `6fde97df5500c9f8da4892d804a9e35473d2476e511ecacaf5d61f88b232fe13`
 
 The app can read `latest.json` or GitHub's public `releases/latest` API from this repository to check for updates.
