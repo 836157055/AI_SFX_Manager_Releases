@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-16",
+  "notes": "sfx 线代码侧没有模型 ID 概念（走 provider + 输出格式白名单），故 sfx 组收录 provider 级条目。",
+  "music": [
+    { "model_id": "music_v2_5", "display_name": "Music V2.5", "status": "new",        "default_params": {} },
+    { "model_id": "music_v2",   "display_name": "Music V2",   "status": "stable",     "default_params": {} },
+    { "model_id": "music_v1",   "display_name": "Music V1",   "status": "deprecated", "default_params": {} }
+  ],
+  "sfx": [
+    { "model_id": "elevenlabs", "display_name": "ElevenLabs 音效生成", "status": "stable", "default_params": {} },
+    { "model_id": "seed-audio", "display_name": "Seed Audio",          "status": "stable", "default_params": {} }
+  ],
+  "tts": [
+    { "model_id": "seed-audio-1.0", "display_name": "Seed Audio 1.0", "status": "stable", "default_params": {} }
+  ]
+}
