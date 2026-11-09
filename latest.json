@@ -1,10 +1,10 @@
 {
-    "version":  "0.7.4",
-    "releaseUrl":  "https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.7.4",
-    "downloadUrl":  "https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.7.4/SFX-Reactor-v0.7.4-setup.exe",
-    "notes":  "SFX Reactor 0.7.4 public update package.",
-    "sha256":  "cce2d6b0b415d49350a6dbbd7f326e2bbd6ccc261e2d24ce2101d94c15c22686",
-    "platform":  "windows-x64",
-    "fileName":  "SFX-Reactor-v0.7.4-setup.exe",
-    "publishedAt":  "2026-11-08T03:33:32Z"
+  "version": "0.7.5",
+  "releaseUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.7.5",
+  "downloadUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.7.5/SFX-Reactor-v0.7.5-setup.exe",
+  "notes": "SFX Reactor 0.7.5 public update package.",
+  "sha256": "913b87329eb3f1392b9389e1a61f203c16b6fdf92de59f4ddf4429a5b548d416",
+  "platform": "windows-x64",
+  "fileName": "SFX-Reactor-v0.7.5-setup.exe",
+  "publishedAt": "2026-11-09T14:18:21Z"
 }
