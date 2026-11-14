@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "0.7.6",
-    "publishedAt":  "2026-11-11T15:20:00Z",
-    "fileName":  "SFX-Reactor-v0.7.6-setup.exe",
-    "releaseUrl":  "https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.7.6",
+    "version":  "0.7.7",
+    "publishedAt":  "2026-11-14T16:05:00Z",
+    "fileName":  "SFX-Reactor-v0.7.7-setup.exe",
+    "releaseUrl":  "https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.7.7",
     "platform":  "windows-x64",
-    "downloadUrl":  "https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.7.6/SFX-Reactor-v0.7.6-setup.exe",
-    "notes":  "SFX Reactor 0.7.6 public update package.",
-    "sha256":  "c8a42061a5fb4b16047b54ef67d55bd833f587420ce115e09cb21bc455b73f47"
+    "downloadUrl":  "https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.7.7/SFX-Reactor-v0.7.7-setup.exe",
+    "notes":  "SFX Reactor 0.7.7: sidecar lifecycle governance (orphan kill verified / poison / spawn-rate alert) + sidecar payload 0.2.1 (WRITEFAIL-FAST). Install the OFFLINE package to update the sidecar payload.",
+    "sha256":  "88ad3f5c90d42cc17fd07e2af40b3429e3362a9424aebdd06afae3dce9c082e9"
 }
