@@ -2,9 +2,9 @@
   "version": "0.7.7",
   "releaseUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.7.7",
   "downloadUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.7.7/SFX-Reactor-v0.7.7-setup.exe",
-  "notes": "SFX Reactor 0.7.7: sidecar 0.2.3 corrupt-container guard (no more multi-GB allocations from broken game-asset headers).",
-  "sha256": "d5066b68460e58352fa10d30aa3cfb22f833360a3b2b42c729feb977ec8b7ca1",
+  "notes": "SFX Reactor 0.7.7: sidecar 0.2.3 with corrupt-container guard (bounded read caps allocation at 40MB) + parallel decode + overlay auto-update.",
+  "sha256": "c78fd87b82bd7b04363fade051127922195fa3a367740554e8bb44472c154fba",
   "platform": "windows-x64",
   "fileName": "SFX-Reactor-v0.7.7-setup.exe",
-  "publishedAt": "2026-11-15T14:35:00Z"
+  "publishedAt": "2026-11-15T15:15:00Z"
 }
