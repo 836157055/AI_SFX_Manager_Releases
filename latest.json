@@ -2,9 +2,9 @@
   "version": "0.7.7",
   "releaseUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.7.7",
   "downloadUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.7.7/SFX-Reactor-v0.7.7-setup.exe",
-  "notes": "SFX Reactor 0.7.7: sidecar code-overlay auto-update + 4-way parallel decode + probe timeout 120s. Sidecar 0.2.2 auto-delivered as 87KB overlay.",
-  "sha256": "11c88447b6e410bfd66ca48f50cbf54b095ce59cac0c41ffbb140735ef5fffc4",
+  "notes": "SFX Reactor 0.7.7: sidecar 0.2.3 corrupt-container guard (no more multi-GB allocations from broken game-asset headers).",
+  "sha256": "d5066b68460e58352fa10d30aa3cfb22f833360a3b2b42c729feb977ec8b7ca1",
   "platform": "windows-x64",
   "fileName": "SFX-Reactor-v0.7.7-setup.exe",
-  "publishedAt": "2026-11-15T10:20:00Z"
+  "publishedAt": "2026-11-15T14:35:00Z"
 }
