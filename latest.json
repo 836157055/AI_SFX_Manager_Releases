@@ -1,10 +1,10 @@
 {
-  "version": "0.7.7",
-  "releaseUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.7.7",
-  "downloadUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.7.7/SFX-Reactor-v0.7.7-setup.exe",
-  "notes": "SFX Reactor 0.7.7: sidecar 0.2.3 with corrupt-container guard (bounded read caps allocation at 40MB) + parallel decode + overlay auto-update.",
-  "sha256": "c78fd87b82bd7b04363fade051127922195fa3a367740554e8bb44472c154fba",
+  "version": "0.7.8",
+  "releaseUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.7.8",
+  "downloadUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.7.8/SFX-Reactor-v0.7.8-setup.exe",
+  "notes": "SFX Reactor 0.7.8: CUDA auto-recovery loop closed (bundled-sidecar CPU torch auto-replaced with cu126 when NVIDIA GPU present) + update-check fix + sidecar version tri-state + diagnostics freeze fix and export progress bar.",
+  "sha256": "ba85d41b244063c33c4ef29a685f5d3bdc71637c06dfea3dc96f0a76f512b327",
   "platform": "windows-x64",
-  "fileName": "SFX-Reactor-v0.7.7-setup.exe",
-  "publishedAt": "2026-11-15T15:15:00Z"
+  "fileName": "SFX-Reactor-v0.7.8-setup.exe",
+  "publishedAt": "2026-11-16T11:55:00Z"
 }
