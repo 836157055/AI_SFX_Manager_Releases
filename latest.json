@@ -1,10 +1,10 @@
 {
-  "version": "0.7.9",
-  "releaseUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.7.9",
-  "downloadUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.7.9/SFX-Reactor-v0.7.9-setup.exe",
-  "notes": "SFX Reactor 0.7.9: poison-file resample explosion fixed (sidecar 0.2.4 sample-rate sanity gate) + sidecar chain auto-update to 0.2.4 + all v0.7.8 fixes.",
-  "sha256": "8e4bd0f4bf7af4956632f02c51a11edf0c94df016936b8c70346127ee3020be3",
+  "version": "0.7.10",
+  "releaseUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/tag/v0.7.10",
+  "downloadUrl": "https://github.com/836157055/AI_SFX_Manager_Releases/releases/download/v0.7.10/SFX-Reactor-v0.7.10-setup.exe",
+  "notes": "SFX Reactor 0.7.10: device-flip loop closed (auto-corrected cpu setting restores to cuda once torch is CUDA-capable; explicit cpu choice respected) + update download/apply moved off the main thread + retry button style variant.",
+  "sha256": "47657003a9c611d6a61c8f601a87a11b37f858d1d4640cc29a331de43be4e6a3",
   "platform": "windows-x64",
-  "fileName": "SFX-Reactor-v0.7.9-setup.exe",
-  "publishedAt": "2026-11-16T17:06:00Z"
+  "fileName": "SFX-Reactor-v0.7.10-setup.exe",
+  "publishedAt": "2026-11-17T02:24:00Z"
 }
